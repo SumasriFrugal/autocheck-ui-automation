@@ -1,0 +1,1 @@
+[{"uid":"213ea547930cc194","name":"Test: Login successfully using valid credentials and verify URL post-login","time":{"start":1761070419224,"stop":1761070419226,"duration":2},"status":"skipped","severity":"blocker"},{"uid":"4438438137facf58","name":"SetUpTests","time":{"start":1761070419198,"stop":1761070419200,"duration":2},"status":"broken","severity":"normal"}]
